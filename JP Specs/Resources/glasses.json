@@ -1,0 +1,53 @@
+{
+    "glasses" : [
+                 
+                {
+                "brand" : "Ray Ban",
+                "model" : "Clubmaster",
+                "image" : "RayBanClubMasterBlack",
+                "price" : 133.00,
+                "frameColour" : "Black",
+                "frameMaterial" : "Acetate",
+                "modelCode" : "RB5154 2000 49-21",
+                 "description" : "Ray-Ban Clubmaster eyeglasses are retro and timeless. Inspired by the 50’s, the unmistakable design of the Clubmaster Optics is worn by cultural intellectuals, those who lead the changed tomorrow. Choose the iconic Clubmaster eyeglasses design in a variety of frames. While wearing Ray-Ban RB5154 Clubmaster Optics design, you’ll always make a statement.",
+                "shape" : "Square",
+                "lensSize" : "49",
+                "bridgeSize" : "21",
+                "templeLength" : "140",
+                "overlayImage" : "RayBanClubmasterBlackFrontView",
+                 },
+                    
+                {
+                "brand" : "Ray Ban",
+                "model" : "Wayfarer",
+                "image" : "RayBanWayfarerBlack",
+                "price" : 133.00,
+                "frameColour" : "Black",
+                "frameMaterial" : "Acetate",
+                "modelCode" : "RB5184 2000 52-18",
+                 "description" : "Go back to where it all began with Ray-Ban New Wayfarer eyeglasses. Using the same iconic shape as the classic Wayfarer, these eyeglasses offer an updated version that includes a smaller frame and slightly softer eye shape. All Ray-Ban New Wayfarer eyeglasses are designed to offer an easy fit with a high level of confort and style.",
+                "shape" : "Square",
+                "lensSize" : "52",
+                "bridgeSize" : "18",
+                "templeLength" : "145",
+                "overlayImage" : "WayfarerBlackFront",
+                 },
+                 
+                 {
+                 "brand" : "Oakley",
+                 "model" : "Airdrop",
+                 "image" : "OakleyAirdropSatinBlack",
+                 "price" : 120.00,
+                 "frameColour" : "Satin Black",
+                 "frameMaterial" : "O Matter",
+                 "modelCode" : "OX8046-0153",
+                 "description" : "Rectangular lenses and smooth lines give Airdrop™ a pure, genuine look that brings clean styling to any occasion. The fit is just as versatile with four available sizes so you can get a frame that feels made for you. Our dark crystal theme adds color to this go-anywhere design made for those who take a straightforward approach to original style.",
+                 "shape" : "Rectangle",
+                 "lensSize" : "55",
+                 "bridgeSize" : "18",
+                 "templeLength" : "143",
+                 "overlayImage" : "OakleyAirdropSatinBlackFront",
+                 }
+     ]
+                    
+}

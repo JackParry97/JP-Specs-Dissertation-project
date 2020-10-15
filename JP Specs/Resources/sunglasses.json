@@ -1,0 +1,57 @@
+{
+    "sunglasses" : [
+                    {
+                    "brand" : "Ray Ban",
+                    "model" : "Aviator Classic",
+                    "image" : "RayBanAviatorGold",
+                    "price" : 127.00,
+                    "frameColour" : "Gold",
+                    "lensType" : "Brown Classic B-15",
+                    "frameMaterial" : "Metal",
+                    "image1" : "first",
+                    "modelCode" : "RB3025 001/33 58-14",
+                    "description" : "Currently one of the most iconic sunglass models in the world, Ray-Ban Aviator Classic sunglasses were originally designed for U.S. aviators in 1937. Aviator Classic sunglasses are a timeless model that combines great aviator styling with exceptional quality, performance and comfort. With a classic gold frame, you can see the world through a variety of lens colors including crystal brown, crystal green, G-15 polarized and more that provide optimum visual clarity and 100% UV protection.",
+                    "shape" : "Pilot",
+                    "lensSize" : "58",
+                    "bridgeSize" : "14",
+                    "templeLength" :  "135",
+                    "overlayImage" : "RayBanAviatorGoldFrontView",
+                    },
+                    
+                    {
+                    "brand" : "Ray Ban",
+                    "model" : "Clubmaster",
+                    "image" : "RayBanClubMaster",
+                    "price" : 127.00,
+                    "frameColour" : "Black",
+                    "lensType" : "Green Classic G-15",
+                    "frameMaterial" : "Acetate",
+                    "modelCode" : "RB3016 W0365E 49-21",
+                    "description" : "Ray-Ban Clubmaster Classic sunglasses are retro and timeless. Inspired by the 50’s, the unmistakable design of the Clubmaster Classic is worn by cultural intellectuals, those who lead the changed tomorrow. Choose the iconic Clubmaster Classic sunglasses design in black or brown frames with a crystal green lens treatment. While wearing Ray-Ban RB3016 Clubmaster Classic design, you’ll always make a statement.",
+                    "shape" : "Square",
+                    "lensSize" : "58",
+                    "bridgeSize" : "14",
+                    "templeLength" :  "135",
+                    "overlayImage" : "raybanclubmastersungfront",
+                    },
+                    
+                    {
+                    "brand" : "Oakley",
+                    "model" : "Holbrook",
+                    "image" : "OakleyHolbrookBlack",
+                    "price" : 105,
+                    "frameColour" : "Matte Black",
+                    "lensType" : "Warm Grey",
+                    "frameMaterial" : "Acetate",
+                    "modelCode" : "OO9102-01",
+                    "description" : "Holbrook is a timeless, classic design fused with modern Oakley technology. Inspired by the screen heroes from the 1940s, 50s, and 60s, this design epitomizes the spirit of exploration and adventure. The iconic American frame design is accented by metal rivets and Oakley icons, perfect for those who seek equal parts performance and style.",
+                    "shape" : "Square",
+                    "lensSize" : "58",
+                    "bridgeSize" : "14",
+                    "templeLength" :  "135",
+                    "overlayImage" : "OakleyHolbrookBlackFront",
+                    },
+        ]
+                    
+}
+
